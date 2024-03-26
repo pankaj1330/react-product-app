@@ -1,5 +1,6 @@
 {
-  "name": "assignment",
+  "name": "react-product-app",
+  "homepage": "https://pankaj1330.github.io/react-product-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
